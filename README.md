@@ -2,8 +2,11 @@
 
 An e-commerce NextJS web-app.
 
-First, run the development server: 
-```bash npm run dev```
+First, run the development server:
+
+```bash
+npm run dev
+```
 
 The app is hosted on this website: 
 
